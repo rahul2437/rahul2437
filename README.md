@@ -34,7 +34,7 @@ ___
 
 <div>
   <h3>Contact Me:</h3><br>
-    <a href="https://rahulsheelavantar.netlify.app/" target="_blank">Portfolio</a>
+    <a href="https://rahulsheelavantar.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=DA66C2&style=for-the-badge&logoColor=whitesmoke" alt="Portfolio"></a>
     <a href="https://www.linkedin.com/in/rahulsheelavantar/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
     <a href="https://www.instagram.com/rahul.sheelavantar/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
 </div>
