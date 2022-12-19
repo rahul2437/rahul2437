@@ -9,6 +9,7 @@
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
         <p>• 📚 I’m currently learning: <b>Full-Stack Web development with Masai school on MERN stack, trying to get my first experience as a developer.</b></p>
+        <p>• 📚 Location:- Belagavi</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Tech 👨‍💻 | F1 🏎️</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>rahulsheelavantar@gmail.com</b></p>
