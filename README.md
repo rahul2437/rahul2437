@@ -1,5 +1,4 @@
-<img align="right" src="https://github.com/rahul2437/rahul2437/blob/main/PngItem_1247943.png" alt="Illustration" title="Illustration Storyset" width=450/>
-    
+  
 <h1 align="left">Hi 👋🏽, I'm Rahul Sheelavantar</h1>
 
 ![Profile views](https://gpvc.arturio.dev/rahul2437)
