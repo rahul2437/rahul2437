@@ -15,7 +15,7 @@
 </div><br>
 
 <div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=rahul2437&show_icons=true" alt="rahul2437" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=rahul2437&show_icons=true" alt="rahul2437 Readme Stats" />
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul2437&show_icons=true" alt="rahul2437" />
     <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul2437&" alt="rahul2437" />
     <img height="255em" src="https://activity-graph.herokuapp.com/graph?username=rahul2437&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
